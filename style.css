@@ -1,0 +1,15 @@
+.ground{
+  background-image: url(./images/head_bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+.myName{
+  font-size: xxx-large;
+  font-weight: 700;
+  height:40vh;
+  align-content: center;
+}
+#home{
+
+}
