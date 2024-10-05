@@ -10,6 +10,7 @@
   height:40vh;
   align-content: center;
 }
-#home{
-
+.skip{
+text-decoration: none;
+color:rgb(10, 10, 189);
 }
